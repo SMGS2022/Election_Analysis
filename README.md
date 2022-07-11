@@ -25,8 +25,31 @@ The analysis of the election shows that:
   - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
   - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
 - The winner of the election was:
-  - Diana DeGette who received "73.8%" of the vote and "272,892" number of votes.
+  - Diana DeGette whom received "73.8%" of the vote and "272,892" number of votes.
   
   ## Challenge Overview
-  
+  The goal of this challenge was to achieve the results to the following questions:
+  - How many votes were cast in this congressional election?
+  - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  - Which county had the largest number of votes?
+  - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
   ## Challenge Summary
+  
+The main conclusion of the election audit indicates that:
+
+  - Counties to partake in election:
+    - Denver
+    - Jefferson
+    - Arapahoe
+ 
+  - Participating county election results:
+    - Denver County, "82.8%" of the votes and "306,055" number of votes
+    - Jefferson County, "10.5%" of the votes and "38,855" number of votes
+    - Arapahoe County, "6.7%" of the votes and "24,801" number of votes
+    
+  - County proven to have the largest turnout:
+    - Denver County presented "82.8%" of the votes and "306,055" number of votes
+    
+  ## Results within Terminal
