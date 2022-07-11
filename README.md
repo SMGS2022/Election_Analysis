@@ -1,6 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
+
 A Colorado Board of Elections employee gave the following tasks to be completed in order to reveal the election audit of a recent local congressional election
 
 1. Calculate the total number of votes cast.
@@ -14,7 +15,9 @@ A Colorado Board of Elections employee gave the following tasks to be completed 
 - Software: Python 3.6.1, Visual Studio Code 1.38.1
 
 ## Summary
+
 The analysis of the election shows that:
+
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Diana DeGette
@@ -27,7 +30,8 @@ The analysis of the election shows that:
 - The winner of the election was:
   - Diana DeGette whom received "73.8%" of the vote and "272,892" number of votes.
   
-  ## Challenge Overview
+## Challenge Overview
+  
   The goal of this challenge was to achieve the results to the following questions:
   - How many votes were cast in this congressional election?
   - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -35,7 +39,7 @@ The analysis of the election shows that:
   - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-  ## Challenge Summary
+## Challenge Summary and Results
   
 The main conclusion of the election audit indicates that:
 
@@ -52,4 +56,14 @@ The main conclusion of the election audit indicates that:
   - County proven to have the largest turnout:
     - Denver County presented "82.8%" of the votes and "306,055" number of votes
     
-  ## Results within Terminal
+## Election Results within Terminal
+
+![Election_Result.Terminal](Election_Result.Terminal.png)
+
+## Election Results as a Text File
+ 
+![Election_Result.txt](Election_Result.txt.png)
+
+## Code Alterations
+
+ Originally the code stated the participating candidates, their total voter percentages, and their voter numbers. By altering the code and creating new variables, I was able to determine the counties in which the total number of votes and percentages derived. The code can easily be modified to achieve other inquiries regarding the election audit.
